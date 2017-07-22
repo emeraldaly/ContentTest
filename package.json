@@ -1,0 +1,29 @@
+{
+  "name": "testsite",
+  "version": "1.0.0",
+  "description": "Site to test Contentful",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "contentful": "^4.5.0",
+    "express": "^4.15.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-router": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emeraldaly/ContentTest.git"
+  },
+  "author": "Alyson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emeraldaly/ContentTest/issues"
+  },
+  "homepage": "https://github.com/emeraldaly/ContentTest#readme"
+}
